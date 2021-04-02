@@ -8,6 +8,7 @@ Here in this project, I have worked on various ways to reverse a string in javas
 
 While working on various ways to reverse a string on javascript I found that in javascript the string is immutable, hence swapping a string within the same variable string cannot be done.
 So the first method i used to reverse a string is to simply iterate through the string from back to front and put each character in a new empty string.
+
 To understand it better let's take an example:
 let's take a string "hello world"
 when iterating through a loop the compiler indexes every character 
