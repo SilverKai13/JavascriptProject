@@ -15,9 +15,9 @@ let's take a string "hello world"
 
 when iterating through a loop the compiler indexes every character 
 
-h e l l o   w o r l d
+h  e  l  l  o    w  o  r  l  d
 
-0 1 2 3 4 5 6 7 8 9 10
+0  1  2  3  4  5  6  7  8  9  10
 
 Now when we are iterating through the last index to first and putting it in an empty string we are taking it from index 10 to 0.
 
